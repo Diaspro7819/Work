@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Work</string>
+    <array name="spinner_values">
+        <item>январь</item>
+        <item>февраль</item>
+        <item>март</item>
+        <item>апрель</item>
+        <item>май</item>
+        <item>июнь</item>
+        <item>июль</item>
+        <item>август</item>
+        <item>сентябрь</item>
+        <item>октябрь</item>
+        <item>ноябрь</item>
+    </array>
+    <array name="years">
+        <item>2024 год</item>
+        <item>2023 год</item>
+        <item>2022 год</item>
+    </array>
+    <array name="keit_rest">
+        <item>кейт</item>
+        <item>рестик</item>
+        <item>бассейн</item>
+        <item>банкет</item>
+    </array>
+    <array name="keit_rest_basic">
+        <item>все</item>
+        <item>кейт</item>
+        <item>рестик</item>
+        <item>бассейн</item>
+        <item>банкет</item>
+    </array>
+</resources>
